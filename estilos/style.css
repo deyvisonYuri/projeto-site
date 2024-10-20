@@ -27,13 +27,13 @@ h2{
     color: rgb(19, 12, 12);
 }
 img.lado{
-    float:up;
+    float:right;
 }
 
 a{
     text-decoration: none;
     font-weight: bold;
-    color: rgb(255, 0, 0);
+    color: rgb(236, 24, 24);
 }
 
 a:hover{
